@@ -11,8 +11,8 @@ namespace TruthTableGenerator
             Console.WriteLine("불대수를 입력해주시면 진리표를 출력하는 프로그램입니다.");
             Console.WriteLine("진리표는 다음 규칙에 따라 입력해주세요.");
             Console.WriteLine("\t~  : NOT");
-            Console.WriteLine("\t*  : OR");
-            Console.WriteLine("\t+  : AND");
+            Console.WriteLine("\t*  : AND");
+            Console.WriteLine("\t+  : OR");
             Console.WriteLine("\t() : 우선계산");
             Console.WriteLine("\t예 : A * ( B + C )");
             Console.WriteLine("종료하시고 싶다면 'EXIT'를 입력하세요.");
