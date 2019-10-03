@@ -1,0 +1,7 @@
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\bin\Debug\TruthTableGenerator.exe.config
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\bin\Debug\TruthTableGenerator.exe
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\bin\Debug\TruthTableGenerator.pdb
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\obj\Debug\TruthTableGenerator.csprojAssemblyReference.cache
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\obj\Debug\TruthTableGenerator.csproj.CoreCompileInputs.cache
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\obj\Debug\TruthTableGenerator.exe
+D:\source\PersonalProject\TruthTableGenerator\TruthTableGenerator\obj\Debug\TruthTableGenerator.pdb

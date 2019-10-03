@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruthTableGenerator", "TruthTableGenerator\TruthTableGenerator.csproj", "{F791CBA4-7501-4BEF-A5CF-E9E724BB854F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F791CBA4-7501-4BEF-A5CF-E9E724BB854F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F791CBA4-7501-4BEF-A5CF-E9E724BB854F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F791CBA4-7501-4BEF-A5CF-E9E724BB854F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F791CBA4-7501-4BEF-A5CF-E9E724BB854F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA06F0D-53B9-43E7-9711-E6EE5F3100CF}
+	EndGlobalSection
+EndGlobal
